@@ -1,0 +1,7 @@
+# Change maintainer name with overlay overlay/packages/apps/Settings/res/values/ancient_strings.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="maintainer_name">Anant_Goel</string>
+<string name="maintainer_telegram">https://t.me/Anant_Goel</string>
+  
+</resources>
